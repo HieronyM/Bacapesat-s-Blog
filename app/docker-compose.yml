@@ -11,5 +11,5 @@ ghost:
     - url=https://bacapesat.com
     - VIRTUAL_HOST=bacapesat.com
     - LETSENCRYPT_HOST=bacapesat.com
-    - LETSENCRYPT_EMAIL=hieronymilanisti09@gmail.com
+    - LETSENCRYPT_EMAIL=xxx@gmail.com
   restart: always
